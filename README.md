@@ -10,6 +10,10 @@ Unemployment rates, Population and Industries data sets were used.
    ![My Image](my_folder/trends_unemployment.png)
    When the unemployment figures are compared, it is apparent that unemployment rates in Calgary, Alberta, and Canada do follow each other. That convergence accounts for the fact that local Alberta labor market conditions in Calgary and statewide conditions are dictated by national trends. Whenever something happens at the national level—whether due to monetary policy changes, international market pressures, or some other factor—Calgary and Alberta move with it, demonstrating regional and national economy interdependence
 2. What is the trend in Calgary's total unemployment rate on a month-to-month basis and a year-to-year basis?
+   Graph
+   ![My Image](my_folder/year_month_calgary.png)
+   The tight relationship between the unemployment rate and the change on a year-over-year basis is a reflection that longer-term, cumulative effects of economic dislocation are better reflected on an annual basis. In the periods when the unemployment rate spikes, the year-over-year change is a significant indicator of the degree of economic dislocation.
+
   
    
    
