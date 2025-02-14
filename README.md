@@ -21,6 +21,8 @@ The point clustering to moderate inflation levels (0%-3%) suggests the existence
   ![My Image](my_folder/industries.png)
 Steady Growth in Construction, Finance and Educational services:
 The lines in the graph above shows steady growth from 2000 to around 2010. Between 2010 - 2015 it can be seen that there was a rise in the employment levels in the construction, finance, educational services and forestry , mining employment levels.The rise in these employment levels led to increased investments in residential and non-resenditial buildings, public infrastructure and construction projects.
+Additional analysis from population versus unemployment in calgary
+![My Image](my_folder/population_unemployment.png)
 
   
    
