@@ -1,5 +1,6 @@
 # Final-Report
 Final written project topic: Economic shifts in Calgary
+
 **Introduction**
 Unemployment rate is an important indicator of measuring the economic health of Calgary. In 1997, statistics showed that Calgary with a 6.4 percent unemployment rate, was the lowest of the largest 25 metropolitan areas in Canada which made Calgary economy look appealing, thereby attracting people to come into the province, (“Where the Jobs Are, 1997). However, in recent times, Alberta now has a higher unemployment rate higher than the rest of the country at 7.5 percent while the others average at 6.8 percent (Stolte, 2024). Understanding these unemployment rates and trends are essential for developing effective policies and promoting economic resilience. Calgary is a city known for its close ties to the oil industry hence changes in employment rates within the sector could greatly affect unemployment rates in the city. For instance, due to the covid pandemic, there was a squeeze in the Canadian crude-oil prices. Canadian finance minister, warned local businesses about how the epidemic will have a significant impact on the energy sector putting more pressure on the city's struggling economy (Franson, 2020).
 Data Sets
@@ -21,8 +22,22 @@ The point clustering to moderate inflation levels (0%-3%) suggests the existence
   ![My Image](my_folder/industries.png)
 Steady Growth in Construction, Finance and Educational services:
 The lines in the graph above shows steady growth from 2000 to around 2010. Between 2010 - 2015 it can be seen that there was a rise in the employment levels in the construction, finance, educational services and forestry , mining employment levels.The rise in these employment levels led to increased investments in residential and non-resenditial buildings, public infrastructure and construction projects.
-Additional analysis from population versus unemployment in calgary
-![My Image](my_folder/population_unemployment.png)
+5. Is there a relationship between the oil industry employment rate and Calgary's unemployment Rate?
+ ![My Image](my_folder/oil_unemployment.png)
+The graph tracks the oil industry employment pattern (green line) and the unemployment rate in Calgary (orange line) over time.There appears to be a negative correlation between the two variables: When the oil industry increases, the unemployment rate decreases.
+When the oil industry declines, unemployment increases. This means that the oil sector has a direct influence on Calgary's labor market, making it a vital economic catalyst.
+
+**Conclusion**
+* Calgary's economy is heavily dependent on oil & gas, which makes it vulnerable to industry fluctuations.
+* The COVID-19 pandemic caused a steep increase in unemployment but recovery has been sluggish.
+* Inflation has minimal effect on retail sales, hence consumer spending is influenced by other economic factors.
+* Policy intervention and diversification are necessary to achieve a more stable economy and labor market
+
+**Future Takeaway**
+* Reducing dependence on oil and diversifying into alternative sectors.
+* Investment in re-skilling the workforce and training them to match evolving employment needs.
+* Encouraging innovation and green economic policies for the creation of a balanced labor market.
+* This detailed research unfolds Calgary's economic challenges and opportunities, offering thought-provoking information for policymakers, businesspersons, and analysts.
 
   
    
