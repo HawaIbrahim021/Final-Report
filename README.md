@@ -13,6 +13,14 @@ Unemployment rates, Population and Industries data sets were used.
    Graph
    ![My Image](my_folder/year_monthly_calgary.png)
    The tight relationship between the unemployment rate and the change on a year-over-year basis is a reflection that longer-term, cumulative effects of economic dislocation are better reflected on an annual basis. In the periods when the unemployment rate spikes, the year-over-year change is a significant indicator of the degree of economic dislocation.
+3. How is the inflation rate in Calgary affecting consumer spending through retail sales Data?
+Graph
+ ![My Image](my_folder/retail_sales.png)
+The point clustering to moderate inflation levels (0%-3%) suggests the existence of regular inflation rates occurring with consistent retail sales numbers. Since there is no steep correlation, the implication is inflation itself may not be a crucial factor determining Calgary retail sales. Other macroeconomic indicators such as interest rates, wages, employment, and consumer confidence are likely to exert a more profound influence on the pattern of retail spending.
+4. Which industries show the highest growth or decline in employment levels?
+  ![My Image](my_folder/industries.png)
+Steady Growth in Construction, Finance and Educational services:
+The lines in the graph above shows steady growth from 2000 to around 2010. Between 2010 - 2015 it can be seen that there was a rise in the employment levels in the construction, finance, educational services and forestry , mining employment levels.The rise in these employment levels led to increased investments in residential and non-resenditial buildings, public infrastructure and construction projects.
 
   
    
