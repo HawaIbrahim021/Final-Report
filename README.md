@@ -8,6 +8,9 @@ Unemployment rates, Population and Industries data sets were used.
 1. How does Calgary's unemployment rate compare to the overall rate of Alberta and Canada. Understanding Calgary's unemployment rate relative to Alberta and Canada can reveal whether Calgary faces unique economic challenges or benefits that differ from broader trends.
    Graph
    ![My Image](my_folder/trends_unemployment.png)
+   When the unemployment figures are compared, it is apparent that unemployment rates in Calgary, Alberta, and Canada do follow each other. That convergence accounts for the fact that local Alberta labor market conditions in Calgary and statewide conditions are dictated by national trends. Whenever something happens at the national level—whether due to monetary policy changes, international market pressures, or some other factor—Calgary and Alberta move with it, demonstrating regional and national economy interdependence
+2. What is the trend in Calgary's total unemployment rate on a month-to-month basis and a year-to-year basis?
+  
    
    
 
